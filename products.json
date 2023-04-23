@@ -1,0 +1,33 @@
+[
+    {
+        "name":"iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name":"iphone10",
+        "price": 1154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name":"watch",
+        "price": 2045,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name":"m54",
+        "price": 201,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name":"mix3",
+        "price": 351,
+        "featured": false,
+        "company": "mi"
+    }
+]
+
